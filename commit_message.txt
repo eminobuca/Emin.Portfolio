@@ -1,0 +1,1 @@
+Fix typo in style.css and prepare for potential functionality in script.js.
